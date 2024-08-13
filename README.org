@@ -1,0 +1,21 @@
+* ✨ Hi there, I'm Xaidee!
+I'm Xaidee Quartz, a recreational programmer and FOSS enthusiast.
+** 🧰 My programming Toolbox
+ + Zig          .	The ultimate systems-level programming language with an easy to understand and simple syntax.
+ + Rust         󱘗.  The trendy but practical language for explicit memory safety perfect for complex and resource intensive programs.
+ + Crystal      .	A fun high-level language with Ruby-like syntax designed with the goals concurrency and speed without comprimising on syntax.
+ + Scheme       .  A great Lisp-like language for scripting, data manipulation, and embedded in other programs.
+ + Haskell      󰲒.  Good for high-level tasks that still require fine-grained control and functional programming.
+ + Java         󰬷.  Kotlin is better but I like making Minecraft mods so this has to be here.
+** 🖥️ My desktop
+*** Software
+ + Void Linux    
+ + GNU Emacs       
+ + Zed          󰬡  
+ + Firefox      󰈹
+*** Hardware
+ + AMD Ryzen 5600G       󰻠
+ + 16 GB DDR4 RAM (2x8)  
+ + AMD Radeon 7600 XT    
+ + NZXT Phantom 410      󰇅
+ + Keychron Q1 Pro (75%) 󰌌
